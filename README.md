@@ -1,8 +1,6 @@
-<img src="https://pbs.twimg.com/media/DBtmpLlU0AE3FrI.png" alt="Logo"/>
 <h1>Gabriela Aguilar GitHub Space<h1>
 <h2>1st Semester Universidad de Medellín - Ciencia de Datos<h2>
 <h3>Welcome to my workspace on the track to become a Data Analyst<h3>
-<img src="https://i.pinimg.com/originals/eb/3b/70/eb3b703ec55b449fca629a7193d358f9.jpg" alt="Logo" width="200" />
 
 
 
