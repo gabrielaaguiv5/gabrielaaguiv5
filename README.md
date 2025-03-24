@@ -1,6 +1,4 @@
-<img src="descarga.png" width="100%">
-
-<h1 align="center">Hi 👋, I'm Gabriela Aguilar</h1>
+<h1 align="center">Hi ✿ I'm Gabriela Aguilar</h1>
 <h3 align="center">Welcome to my workspace on the track to become a Data Analyst - Universidad de Medellín 2025 <br> ¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯
 </h3>
 
