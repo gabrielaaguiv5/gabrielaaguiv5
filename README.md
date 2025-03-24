@@ -1,4 +1,4 @@
-<img src="descarga.png" width="80%">
+<img src="descarga.png" width="100%">
 <h3>Welcome to my workspace on the track to become a Data Analyst<h3>
 ¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯
 
