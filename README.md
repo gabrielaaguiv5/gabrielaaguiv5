@@ -1,7 +1,6 @@
-<h1>Gabriela Aguilar GitHub Space<h1>
-<h2>1st Semester Universidad de Medellín - Ciencia de Datos<h2>
+<img src="descarga.png">
 <h3>Welcome to my workspace on the track to become a Data Analyst<h3>
-
+¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯¯`*•.¸,¤°´✿.｡.:*  *.:｡.✿`°¤,¸.•*´¯
 
 
 <!--
