@@ -12,12 +12,11 @@
 <h2>Current Work for Major on Data Analytics</h2>
 <h2>Ciencia de Datos - Universidad de Medellín</h2>
 <h3>Curriculum</h3>
-<ul style="background-color: #e4007c; padding: 10px; border-radius: 10px;">
-  <li style="color: #007bff; padding: 5px;">Introduction to Artificial Intelligence</li>
-  <li style="color: #007bff; padding: 5px;">Programming Fundamentals</li>
-  <li style="color: #007bff; padding: 5px;">Statistics Fundamentals</li>
-  <li style="color: #007bff; padding: 5px;">Introduction to Data Science</li>
-
+<ul>
+  <li>Introduction to Artificial Intelligence</li>
+  <li>Programming Fundamentals</li>
+  <li>Statistics Fundamentals</li>
+  <li>Introduction to Data Science</li>
 </ul>
 
 
